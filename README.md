@@ -1,4 +1,4 @@
-# dsa
+# DSA
 chapter wise note of DSA for students by students </br></br>
 Unit 1: Introduction to Data Structures & Algorithms   </br>                                                        
 1.1	Data type and Abstract data types</br>
