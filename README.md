@@ -1,6 +1,6 @@
 # dsa
-chapter wise note of DSA for students by students </br>
-Unit 1: Introduction to Data Structures & Algorithms   </br>                                                                
+chapter wise note of DSA for students by students </br></br>
+Unit 1: Introduction to Data Structures & Algorithms   </br>                                                        
 1.1	Data type and Abstract data types</br>
 1.2	Data structures : linear and non-linear, static and dynamic</br>
 1.3	Algorithms</br>
@@ -11,20 +11,20 @@ Unit 1: Introduction to Data Structures & Algorithms   </br>
 1.4	Analysis of Algorithms</br>
 1.4.1	Big O notation and its rule</br></br>
 
-Unit 2: Arrays, Pointers and Structures</br>
+Unit 2: Arrays, Pointers and Structures</br></br>
 2.1	Array and Pointer</br>
 2.2	Structure and Pointer</br>
 2.2.1	Structure pointer</br>
 2.2.2	Self-referential pointer</br>
 2.3	Dynamic Memory Allocation: malloc, calloc, realloc, free</br></br>
 
-Unit 3: Linked Lists                                                    </br>
+Unit 3: Linked Lists        </br>                                            </br>
 3.1	Single Linked list: traversing, searching, inserting and deleting in single linked list</br>
 3.2	Doubly Linked List: traversing, inserting, creating and deleting in doubly linked list</br>
 3.3	Circular Linked List: traversing, inserting, creating and deleting in circular linked list</br>
 3.4	Comparison of Array list and Linked list</br></br>
 
-Unit 4: Stack                                                           </br>
+Unit 4: Stack</br></br>
 4.1	Introduction</br>
 4.2	Array Implementation of Stack</br>
 4.3	Linked List Implementation of Stack</br>
